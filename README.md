@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js, Django**
 
-- 💬 Ask me about **react, python**
+- 💬 Ask me about **react,**Java, **Selenium Testing, python**
 
 - 📫 How to reach me **mruthulmadhu@gmail.com**
 
