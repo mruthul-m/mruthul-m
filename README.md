@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" align="right" width="250" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mruthul-m&label=Profile%20views&color=0e75b6&style=flat" alt="mruthul-m" /> </p>
 
-- 🌱 I’m currently learning **Next Js, Django**
+- 🌱 I’m currently learning **Spring Boot, React Native**
 
 - 💬 Ask me about **react, Java, Automation Testing, python**
 
